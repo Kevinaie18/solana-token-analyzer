@@ -7,22 +7,22 @@ Use this checklist to track progress through the implementation tasks outlined i
 
 ## ✅ PHASE 1: Set Up Project Skeleton
 
-- [ ] 1.1 Create project folders and base files
-- [ ] 1.2 Initialize Git repository
-- [ ] 1.3 Configure Vercel deployment
+- [x ] 1.1 Create project folders and base files
+- [x ] 1.2 Initialize Git repository
+- [ x] 1.3 Configure Vercel deployment
 
 ---
 
 ## ✅ PHASE 2: Implement Flask Backend
 
-- [ ] 2.1 Build minimal Flask app with ping route
-- [ ] 2.2 Define backend dependencies
-- [ ] 2.3 Accept POST request with CSV and parameters
-- [ ] 2.4 Parse CSV file into DataFrame
-- [ ] 2.5 Compute token price and market cap
-- [ ] 2.6 Filter transactions by token address
-- [ ] 2.7 Detect whale wallets below threshold
-- [ ] 2.8 Return structured analysis response
+- [x ] 2.1 Build minimal Flask app with ping route
+- [ x] 2.2 Define backend dependencies
+- [x ] 2.3 Accept POST request with CSV and parameters
+- [ x] 2.4 Parse CSV file into DataFrame
+- [ x] 2.5 Compute token price and market cap
+- [x ] 2.6 Filter transactions by token address
+- [x ] 2.7 Detect whale wallets below threshold
+- [ x] 2.8 Return structured analysis response
 
 ---
 
